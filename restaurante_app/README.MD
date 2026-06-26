@@ -1,4 +1,4 @@
-# Sistema de Gestión de Restaurante - POO
+# Sistema de Gestión de Restaurante
 
 ## Estudiante
 Talia Males
