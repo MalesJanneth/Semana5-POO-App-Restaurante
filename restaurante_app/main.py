@@ -19,7 +19,7 @@ def main():
     producto2 = Producto(
         "Arroz marinero",
         7.25,
-        1,
+        4,
         True
     )
 
@@ -58,7 +58,7 @@ def main():
     # Visualización de la información almacenada en las listas
 
     print("=== PRODUCTOS REGISTRADOS ===")
-    restaurante.mostrar_producto()
+    restaurante.mostrar_productos()
 
     print("\n=== CLIENTES REGISTRADOS ===")
     restaurante.mostrar_clientes()

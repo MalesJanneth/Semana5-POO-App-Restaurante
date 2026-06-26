@@ -25,7 +25,7 @@ class Cliente:
 
         return (
             f"{self.nombre} | "
-            f"{self.correo}"
+            f"{self.correo} "
         )
 
     def __str__(self) -> str:
@@ -33,6 +33,7 @@ class Cliente:
         # Representación en texto del objeto Clase
 
         return (
-            f"{self.nombre} "
-            f"({self.edad} años)"
+            f"Nombre: {self.nombre} |"
+            f" Edad: {self.edad} años |"
+            f" Correo: {self.correo}"
         )

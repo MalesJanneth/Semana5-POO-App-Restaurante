@@ -26,7 +26,8 @@ class Producto:
         # Representación en texto del objeto Producto
 
         return (
-            f"{self.tnombre} | "
-            f"{self.precio} | "
-            f"${self.cantidad}"
+            f"{self.nombre} | "
+            f"Precio: ${self.precio} | "
+            f"Cantidad: {self.cantidad} | "
+            f"Disponible: {self.disponible}"
         )
