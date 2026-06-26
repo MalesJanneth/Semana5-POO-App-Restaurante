@@ -1,7 +1,7 @@
 # Sistema de Gestión de Restaurante
 
 ## Estudiante
-Talia Males
+Janneth Talía Males Conejo
 
 ## Descripción del proyecto
 Este proyecto es un sistema básico de gestión de restaurante desarrollado en Python utilizando Programación Orientada a Objetos (POO).  
