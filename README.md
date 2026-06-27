@@ -9,14 +9,18 @@ Permite registrar productos y clientes, y mostrarlos en consola mediante listas 
 
 ## Estructura del proyecto
 
-- restaurante_app/
-  - modelos/
-    - producto.py
-    - cliente.py
-  - servicios/
-    - restaurante.py
-  - main.py
-  - README.md
+## 📁 Estructura del proyecto
+
+```text
+restaurante_app/
+├── modelos/
+│   ├── producto.py
+│   └── cliente.py
+├── servicios/
+│   └── restaurante.py
+├── main.py
+└── README.md
+```
 
 ## Tecnologías y conceptos usados
 - Python
@@ -36,4 +40,6 @@ Permite registrar productos y clientes, y mostrarlos en consola mediante listas 
 
 ## Reflexión
 Este proyecto me permitió comprender cómo organizar un programa en Python usando módulos,  clases y objetos.
-Aprendí la importancia de usar nombres claros, tipos de datos correctos y estructuras organizadas para mejorar la lectura y mantenimiento del código.
+Aprendí la importancia de usar nombres claros, tipos de datos correctos y estructuras organizadas para mejorar la lectura, mantenimiento y estabilidad del código. 
+El uso de identificadores descriptivos facilita la lectura del código, mientras que los tipos de datos adecuados (str, int, float y bool) permiten representar correctamente la información del sistema.
+También, las listas fueron fundamentales para almacenar múltiples objetos como productos y clientes, lo cual simula el comportamiento de un sistema real.
