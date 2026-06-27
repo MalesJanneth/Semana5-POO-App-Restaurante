@@ -9,8 +9,6 @@ Permite registrar productos y clientes, y mostrarlos en consola mediante listas 
 
 ## Estructura del proyecto
 
-## 📁 Estructura del proyecto
-
 ```text
 restaurante_app/
 ├── modelos/
