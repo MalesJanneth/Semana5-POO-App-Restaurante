@@ -9,14 +9,14 @@ Permite registrar productos y clientes, y mostrarlos en consola mediante listas 
 
 ## Estructura del proyecto
 
-restaurante_app/
-├── modelos/
-│ ├── producto.py
-│ └── cliente.py
-├── servicios/
-│ └── restaurante.py
-├── main.py
-└── README.md
+- restaurante_app/
+  - modelos/
+    - producto.py
+    - cliente.py
+  - servicios/
+    - restaurante.py
+  - main.py
+  - README.md
 
 ## Tecnologías y conceptos usados
 - Python
